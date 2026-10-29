@@ -1,0 +1,8 @@
+numpy>=2.0
+torch>=2.8
+matplotlib>=3.9
+pytest>=8
+gymnasium>=1.2
+minatar>=1.0.15
+tyro>=0.8
+tensorboard>=2.15
